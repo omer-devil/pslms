@@ -1,0 +1,19 @@
+<-----------------upload folder path---------------->
+profile path = C:\Users\hacker\PycharmProjects\final\blueprint\view\static\upload\profile
+resource path = C:\Users\hacker\PycharmProjects\final\blueprint\view\static\upload\resoursde
+
+<-----------------my phone mysql info----------------->
+PASSWORD = DEVILO.K
+USERNAME = root
+<-------------------my pc msql info------------------->
+username = root
+password = DEVILO.K@2019
+
+<---------------------start mysql server on my pc---------------------->
+windows key + R
+services.msc
+<---------------some other staff------------------>
+C:\Windows\System32\cmd.exe
+<----------------python code ---------------------->
+url_prefix
+<----------------db_tables---------------->
